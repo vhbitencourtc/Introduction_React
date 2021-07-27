@@ -1,8 +1,6 @@
 # <p align="center">:mortar_board: Learn Microsoft:mortar_board:</p>
 # <p align="center">:computer:Introdução ao React:computer:</p>
-
-#### :milky_way:O React.js é a estrutura JavaScript de front-end mais popular. Os desenvolvedores usam o JSX, uma combinação de HTML e JavaScript, para criar exibições de forma natural.
-#
+#### <p align="center">:milky_way:O React.js é a estrutura JavaScript de front-end mais popular.</p>
 
 ## :balloon:Tecnologias
 O curso foi desenvolvido com as linguagens:
