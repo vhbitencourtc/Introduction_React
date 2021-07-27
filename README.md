@@ -4,16 +4,16 @@
 #### :milky_way:O React.js é a estrutura JavaScript de front-end mais popular. Os desenvolvedores usam o JSX, uma combinação de HTML e JavaScript, para criar exibições de forma natural.
 #
 
-### :balloon:Tecnologias
----
-O projeto foi desenvolvido com as linguagens:
+## :balloon:Tecnologias
+O curso foi desenvolvido com as linguagens:
 - `HTML`
 - `CSS`
 - `JavaScript`
 
-## :memo:Curso
+## :memo:Curso Completo
 - [Introdução ao React](https://docs.microsoft.com/pt-br/learn/modules/react-get-started/)
 - [Trabalhar com dados e propriedades em componentes React](https://docs.microsoft.com/pt-br/learn/modules/react-work-with-components-and-data/)
+- [Eventos e estado do React](https://docs.microsoft.com/pt-br/learn/modules/react-states-events/)
 
 ## :computer:Curso
 Curso ministrado pela `Learn Microsoft`, aprendendo um pouco sobre `React.js`.
