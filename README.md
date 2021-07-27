@@ -8,7 +8,7 @@ O curso foi desenvolvido com as linguagens:
 - `CSS`
 - `JavaScript`
 
-## :memo:Curso Completo
+## :memo:Link dos Cursos
 - [Introdução ao React](https://docs.microsoft.com/pt-br/learn/modules/react-get-started/)
 - [Trabalhar com dados e propriedades em componentes React](https://docs.microsoft.com/pt-br/learn/modules/react-work-with-components-and-data/)
 - [Eventos e estado do React](https://docs.microsoft.com/pt-br/learn/modules/react-states-events/)
